@@ -36,4 +36,5 @@ class MyApp extends StatelessWidget {
 
 /* AnimatedContainer es para ver de forma bonita los cambios que se dan 
 PARA SLIDER HAY QUE MODIFICAR EL JSON, las rutas y el util
+Repositorio de prueba
 */
